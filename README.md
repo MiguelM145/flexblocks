@@ -1,1 +1,1 @@
-# flexblocks
+# flexblocks is a school assignment
